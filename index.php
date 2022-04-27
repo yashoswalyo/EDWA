@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Cipher Website</title>
 	<link rel="stylesheet" href="style.css">
-	<script src="/jQuery/jquery-3.6.0.min.js"></script>
+	<script src="jQuery/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
