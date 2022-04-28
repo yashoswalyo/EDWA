@@ -1,5 +1,5 @@
 <p>
-<p class="subTitle">Ceaser + Vigenere + Playfair Cipher</p>
+<p class="subTitle">Ceaser + Vigenere + Playfair + Hill Cipher</p>
 <form>
 	<div class="row">
 		<div class="column">
