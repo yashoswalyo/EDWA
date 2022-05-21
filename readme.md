@@ -8,6 +8,10 @@
 - Playfair Cipher
 - Hill Cipher
 
+### Requirements
+- PHP
+- Apache 2
+
 ### Deploy instructions (Debian based system):
 ```bash
 git clone https://github.com/yashoswalyo/EDWA
