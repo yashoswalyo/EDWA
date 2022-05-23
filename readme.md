@@ -23,9 +23,9 @@ Open browser to http://localhost/EDWA
 
 ## 
 ### Screenshots
-![intro](SS/SS_01.png)
+![intro](./SS/SS_01.png)
 ![ceaser](./SS/SS_02.png)
 ![vi](./SS/SS_03.png)
 ![pl](./SS/SS_04.png)
-![hc](SS/SS_05.png)
-![comb](SS/SS_06.png)
+![hc](./SS/SS_05.png)
+![comb](./SS/SS_06.png)
